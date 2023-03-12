@@ -31,3 +31,18 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+# back end
+node_modules/
+prisma/migrations/
+.env
+.DS_store
+package-lock.json
+service-account.json
+dist/
+*.png
+*.jpeg
+*.jpg
+*.bmp
+*.webp
+*.gif
